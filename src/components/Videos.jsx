@@ -11,7 +11,8 @@ function Videos() {
         </div>
         <div className='hide' style={{position:'relative'}}>
         <img  width='1350' height='280'src='https://www.gstatic.com/youtube/img/promos/growth/d7b61727da369058e783ec02c0a6609c033bee601c797ffd33c23e0ba92f8e43_2560x520.jpeg'/>
-<div style={{position:'absolute',marginTop:'-220px',marginLeft:'80px'}}>
+<div style={{position:'absolute',marginTop:'-250px',marginLeft:'80px'}}>
+<button class="btn-close"  style={{ marginLeft: '1150px' ,marginTop:'-200px'}}></button>
 <div className="d-flex">
               <img
                 alt=""
